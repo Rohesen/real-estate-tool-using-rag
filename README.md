@@ -1,4 +1,4 @@
-# 🏙️ **RealEstate Research Tool**
+# 🏙️ **Real Estate Research Tool**
 
 A smart and user-friendly web app designed for seamless article analysis in the **real estate domain**—with the flexibility to adapt to **any field of research**.
 
