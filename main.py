@@ -1,6 +1,14 @@
 import streamlit as st
 from rag import process_urls, generate_answer
 
+import sys
+import os
+
+# Set the correct SQLite path from pysqlite3
+sys.modules["sqlite3"] = __import__("pysqlite3")
+os.environ["SQLITE_PYTHON_LIBRARY"] = "pysqlite3"
+
+
 st.markdown(
     """
     <div style='text-align: center; font-size: 12px; color: gray;'>
