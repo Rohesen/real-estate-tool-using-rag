@@ -10,7 +10,7 @@ Simply input article URLs and ask questions to receive accurate insights, powere
 ## 🚀 Features
 
 * 🔗 **URL Input**: Load and analyze article content directly from the web.
-* 🧠 **AI-Powered Processing**: Uses LangChain’s `UnstructuredURLLoader` to extract and parse content.
+* 🧠 **AI-Powered Processing**: Uses LangChain’s `WebBaseLoader` to extract and parse content.
 * 📚 **Vector Embeddings**: Converts content into embeddings via HuggingFace models and stores them in **ChromaDB** for fast and relevant retrieval.
 * 💬 **LLM Interaction**: Ask questions and get insightful answers with sources, powered by **Llama 3 via Groq**.
 
