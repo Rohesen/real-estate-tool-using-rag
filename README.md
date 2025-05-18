@@ -4,7 +4,6 @@ A smart and user-friendly web app designed for seamless article analysis in the 
 
 Simply input article URLs and ask questions to receive accurate insights, powered by cutting-edge LLMs and vector-based search.
 
-![Product Screenshot](resources/product%20screenshot.png)
 
 
 
@@ -71,7 +70,7 @@ Once the app is launched:
 
 | Home Page                          | Processing View                          | Q\&A Interface                   |
 | ---------------------------------- | ---------------------------------------- | -------------------------------- |
-| ![Home](resources/screenshot1.png) | ![Processing](resources/screenshot2.png) | ![QA](resources/screenshot3.png) |
+| ![Home](resources/HomePage.png) | ![Processing](resources/ProcessingPage.png) | ![QA](QnAPage.png) |
 
 
 
