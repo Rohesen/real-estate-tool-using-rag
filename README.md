@@ -70,7 +70,7 @@ Once the app is launched:
 
 | Home Page                          | Processing View                          | Q\&A Interface                   |
 | ---------------------------------- | ---------------------------------------- | -------------------------------- |
-| ![Home](resources/HomePage.png) | ![Processing](resources/ProcessingPage.png) | ![QA](QnAPage.png) |
+| ![Home](resources/HomePage.png) | ![Processing](resources/ProcessingPage.png) | ![QA](resources/QnAPage.png) |
 
 
 
