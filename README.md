@@ -62,7 +62,7 @@ Once the app is launched:
 
 ## 📽️ Project Demo Video
 
-[![Watch the video](https://github.com/Rohesen/real-estate-tool-using-rag/blob/main/project_video.gif)
+[![Watch the video](https://github.com/Rohesen/real-estate-tool-using-rag/blob/main/project_video.gif)]
 
 
 
