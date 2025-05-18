@@ -1,5 +1,8 @@
 import streamlit as st
 from rag import process_urls, generate_answer
+# Fix sqlite3 compatibility for Streamlit Cloud
+import sys
+sys.modules["sqlite3"] = __import__("pysqlite3")
 
 
 st.markdown(
