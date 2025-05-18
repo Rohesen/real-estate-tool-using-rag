@@ -63,11 +63,7 @@ Once the app is launched:
 
 ## 📽️ Project Demo Video
 
-🎥 *Coming Soon...*
-
-*Or embed your video link here once it's ready:*
-
-> [![Watch the video](resources/video-thumbnail.png)](https://your-demo-video-link.com)
+> [![Watch the video](https://github.com/Rohesen/real-estate-tool-using-rag/blob/main/project_video.gif)
 
 ---
 
