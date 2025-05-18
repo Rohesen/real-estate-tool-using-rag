@@ -1,5 +1,4 @@
 from uuid import uuid4
-from dotenv import load_dotenv
 from pathlib import Path
 from langchain.chains import RetrievalQAWithSourcesChain
 from langchain_community.document_loaders import WebBaseLoader
@@ -8,7 +7,11 @@ from langchain_chroma import Chroma
 from langchain_groq import ChatGroq
 from langchain_huggingface.embeddings import HuggingFaceEmbeddings
 
-load_dotenv()
+import streamlit as st
+
+user_agent = st.secrets["USER_AGENT"]
+api_key = st.secrets["GROQ_API_KEY"]
+
 
 # Constants
 CHUNK_SIZE = 1000
