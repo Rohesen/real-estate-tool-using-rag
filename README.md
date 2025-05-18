@@ -6,7 +6,7 @@ Simply input article URLs and ask questions to receive accurate insights, powere
 
 ![Product Screenshot](resources/product%20screenshot.png)
 
----
+
 
 ## 🚀 Features
 
@@ -15,7 +15,7 @@ Simply input article URLs and ask questions to receive accurate insights, powere
 * 📚 **Vector Embeddings**: Converts content into embeddings via HuggingFace models and stores them in **ChromaDB** for fast and relevant retrieval.
 * 💬 **LLM Interaction**: Ask questions and get insightful answers with sources, powered by **Llama 3 via Groq**.
 
----
+
 
 ## ⚙️ Set-Up Instructions
 
@@ -39,7 +39,7 @@ Simply input article URLs and ask questions to receive accurate insights, powere
    streamlit run main.py
    ```
 
----
+
 
 ## 💡 How to Use
 
@@ -51,7 +51,7 @@ Once the app is launched:
 * Ask any **natural language question** about the loaded articles.
 * Receive an **answer** along with the **source URLs** where the information came from.
 
----
+
 
 ## 📰 Sample Articles Used
 
@@ -59,13 +59,13 @@ Once the app is launched:
 * [Why mortgage rates jumped despite Fed interest rate cut](https://www.cnbc.com/2024/12/20/why-mortgage-rates-jumped-despite-fed-interest-rate-cut.html)
 * [Dividend-paying real estate stocks to watch in 2025](https://www.cnbc.com/2024/12/17/wall-street-sees-upside-in-2025-for-these-dividend-paying-real-estate-stocks.html)
 
----
+
 
 ## 📽️ Project Demo Video
 
-> [![Watch the video](https://github.com/Rohesen/real-estate-tool-using-rag/blob/main/project_video.gif)
+[![Watch the video](https://github.com/Rohesen/real-estate-tool-using-rag/blob/main/project_video.gif)
 
----
+
 
 ## 🖼️ Screenshots
 
@@ -73,18 +73,12 @@ Once the app is launched:
 | ---------------------------------- | ---------------------------------------- | -------------------------------- |
 | ![Home](resources/screenshot1.png) | ![Processing](resources/screenshot2.png) | ![QA](resources/screenshot3.png) |
 
----
+
 
 ## 📄 License
-
-**© Codebasics Inc. All rights reserved.**
 
 This project is released under the **MIT License**, with the following additional terms:
 
 * **Commercial use is strictly prohibited** without prior written permission from the author.
 * Attribution must be given in all copies or substantial portions of the software.
-
----
-
-Let me know when you have the video link and screenshots ready, and I’ll update the placeholders for you!
 
