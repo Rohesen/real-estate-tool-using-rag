@@ -15,6 +15,12 @@ Simply input article URLs and ask questions to receive accurate insights, powere
 * 💬 **LLM Interaction**: Ask questions and get insightful answers with sources, powered by **Llama 3 via Groq**.
 
 
+## 🌐 Live Demo
+
+[![Streamlit App](https://img.shields.io/badge/Live_App-Streamlit-brightgreen?logo=streamlit)](https://real-estate-tool-using-rag-jd2k2zxmtew9dnqbumcccj.streamlit.app/)
+
+> 🚀 Click the badge above to try the app live!
+
 
 ## ⚙️ Set-Up Instructions
 
